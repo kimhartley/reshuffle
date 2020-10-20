@@ -1,0 +1,4 @@
+{"message":"Initializing Reshuffle","level":"info","timestamp":"2020-10-20T23:47:54.186Z"}
+{"message":"Registering event HTTP/GET/test/oVelimSDGFsMtrvsle389","level":"info","timestamp":"2020-10-20T23:47:54.193Z"}
+{"message":"Web server listening on port 8000","level":"info","timestamp":"2020-10-20T23:47:54.206Z"}
+{"message":"Handling event","level":"info","timestamp":"2020-10-20T23:48:58.431Z"}
